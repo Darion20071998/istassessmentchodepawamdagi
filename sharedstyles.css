@@ -1,17 +1,20 @@
 html{
-    background-color: grey;
+background-color:rgb(204, 203, 203)
 }
 
 
 
 #header{
     text-align: center;
+    
 }
 
 header h1{
+    margin-left: 5px;
+    margin-right: 5px;
     text-align: center;
     padding: 20px;
-    background-color: purple;
+background-color: cadetblue;
     border-radius: 10px;
     font-family: 'Signika Negative';
 }
@@ -27,3 +30,13 @@ footer p{
     text-align: center;
 }
 
+.body{
+    display: block;
+    text-align: center;
+    color: black;
+    background-color: azure;
+    border-radius: 8px;
+    font-family: 'Roboto Slab', serif;
+    margin: 20px;
+    padding-bottom: 15px;
+}
