@@ -1,9 +1,4 @@
-.body h2{
-    text-align: left;
-    padding-top: 25px;
-    padding: 15px;
-    font-family: 'Montserrat', sans-serif;
-}
+
 
 p{
     font-family: 'Open Sans', sans-serif;
@@ -32,12 +27,5 @@ p{
     text-align: center;
 }
 
-li{
-    text-align: left;
-}
-
-li{
-    font-family: 'Open Sans', sans-serif;
-}
 
 
