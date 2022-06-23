@@ -4,3 +4,51 @@
     border-radius: 8px;
 
 }
+
+
+.body p{
+    padding-left: 16px;
+    font-family: "Open Sans", sans-serif;
+    text-align: left;
+}
+
+footer{
+    text-align: center;
+}
+
+
+.cartbuy {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    background-color: white;
+    border-radius: 8px;
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+  
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+  
+  .cartbuy button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    border-radius: 8px;
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+  
+  .cartbuy button:hover {
+    opacity: 0.7;
+  }
