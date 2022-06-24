@@ -27,6 +27,7 @@ footer{
     border-radius: 8px;
     padding-left: 6px;
     padding-right: 6px;
+    padding-bottom: 1px;
   }
   
   .price {
@@ -51,4 +52,8 @@ footer{
   
   .cartbuy button:hover {
     opacity: 0.7;
+  }
+
+  footer{
+    font-family: "Open Sans", sans-serif;
   }
