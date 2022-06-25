@@ -11,3 +11,14 @@
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
   }
+
+  html{
+    padding-top: 30px;
+display: flex;
+justify-content: center;
+  }
+
+  footer{
+    text-align: center;
+    font-family: "Open Sans";
+  }
