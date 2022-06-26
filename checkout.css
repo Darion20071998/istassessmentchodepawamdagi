@@ -9,16 +9,16 @@ header h1{
     margin-right: 5px;
     text-align: center;
     padding: 20px;
-background-color: rgb(170, 44, 5);
+background-color: #aa2c05;
     border-radius: 10px;
     font-family: 'Signika Negative';
-    color: white;
+    color: #ffffff;
 }
 
 header a{
     text-decoration: none;
-    color: white;
-    font-family: 'Open Sans', san;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -46,7 +46,7 @@ table, th, td {
 
   .itembutton{
       text-decoration: none;
-      color: black;
+      color: #000000;
   }
 
   .itembutton:hover{
@@ -62,8 +62,8 @@ table, th, td {
 
 #continue a{
     padding: 10px;
-    background-color: rgb(170, 44, 5);
-    color: white;
+    background-color: #aa2c05;
+    color: #ffffff;
     font-family: "Open Sans", sans-serif;
     border-radius: 8px;
 }
