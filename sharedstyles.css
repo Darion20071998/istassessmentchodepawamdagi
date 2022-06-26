@@ -39,6 +39,7 @@ footer p{
     font-family: 'Roboto Slab', serif;
     margin: 20px;
     padding-bottom: 15px;
+    padding-top: 3px;
 }
 
 body div h2{
@@ -73,5 +74,15 @@ footer{
 }
 
 .purchase h2{
+    color: white;
+}
+
+footer p{
+    color: #FFFFFF;
+    background-color: #000000;
+    border-radius: 8px;
+    padding-bottom: 3px;
+}
+footer a{
     color: white;
 }
