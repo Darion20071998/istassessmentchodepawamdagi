@@ -8,8 +8,6 @@ p{
 
 }
 
- 
-
 .BANNER{
     text-align: center;
     background-image: url("media/background.png");
@@ -19,7 +17,7 @@ p{
     padding: 112px;
     color: #ffffff;
     font-size: 42px;
-    font-family: "Open Sans", sans-serif;
+    font-family: 'Fredoka One', cursive;
     border-radius: 6px;
 
 }
