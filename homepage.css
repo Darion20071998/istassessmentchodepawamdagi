@@ -18,8 +18,12 @@ p{
     color: #ffffff;
     font-size: 42px;
     font-family: 'Fredoka One', cursive;
-    border-radius: 6px;
 
+}
+
+.BANNER img{
+    background-color: #FFFFFF;
+    border-radius: 50%;
 }
 
 .body{
